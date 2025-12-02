@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Who wrote the novel '1984'?",
+    "context": "1984 is a dystopian novel published in 1949 by English writer George Orwell. It depicts a totalitarian society under constant surveillance.",
+    "answer": "George Orwell",
+    "answer_inlang": "George Orwell",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 62
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "context": "Japan is an island country in East Asia. Its capital and largest city is Tokyo, known for its modern skyline and historic temples.",
+    "answer": "Tokyo",
+    "answer_inlang": "Tokyo",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 73
+  },
+  {
+    "question": "When did World War II end?",
+    "context": "World War II was a global conflict that lasted from 1939 to 1945. It ended with the unconditional surrender of the Axis powers.",
+    "answer": "1945",
+    "answer_inlang": "1945",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 60
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "context": "Mars is the fourth planet from the Sun and is often referred to as the Red Planet due to its reddish appearance caused by iron oxide on its surface.",
+    "answer": "Mars",
+    "answer_inlang": "Mars",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 0
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "context": "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci. It is considered one of the most valuable artworks in the world.",
+    "answer": "Leonardo da Vinci",
+    "answer_inlang": "Leonardo da Vinci",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 71
+  },
+  {
+    "question": "What gas do plants release during photosynthesis?",
+    "context": "Photosynthesis is the process by which green plants convert light energy into chemical energy. During this process, they take in carbon dioxide and release oxygen.",
+    "answer": "Oxygen",
+    "answer_inlang": "Oxygen",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "context": "Apollo 11 was the spaceflight that first landed humans on the Moon. On July 20, 1969, astronaut Neil Armstrong became the first person to walk on its surface.",
+    "answer": "Neil Armstrong",
+    "answer_inlang": "Neil Armstrong",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 96
+  },
+  {
+    "question": "What is the population of Atlantis?",
+    "context": "Atlantis is a mythical island mentioned by the philosopher Plato. It has never been proven to exist.",
+    "answer": "",
+    "answer_inlang": "",
+    "answerable": false,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "What language do dolphins speak?",
+    "context": "Dolphins are highly intelligent marine mammals known for their complex communication through clicks and whistles, but they do not use human language.",
+    "answer": "",
+    "answer_inlang": "",
+    "answerable": false,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "context": "Albert Einstein developed the theory of relativity, a fundamental principle in modern physics that revolutionized our understanding of space and time.",
+    "answer": "Albert Einstein",
+    "answer_inlang": "Albert Einstein",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 0
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "context": "The blue whale is the largest known animal to have ever existed. Adult blue whales can reach lengths of up to 30 meters.",
+    "answer": "Blue whale",
+    "answer_inlang": "Blue whale",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "context": "Water is a molecule composed of two hydrogen atoms and one oxygen atom. Its chemical formula is H₂O.",
+    "answer": "H₂O",
+    "answer_inlang": "H₂O",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 96
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "context": "Penicillin, the first true antibiotic, was discovered accidentally by Scottish scientist Alexander Fleming in 1928.",
+    "answer": "Alexander Fleming",
+    "answer_inlang": "Alexander Fleming",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 89
+  },
+  {
+    "question": "Which ocean is the deepest?",
+    "context": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. The Mariana Trench is its deepest point.",
+    "answer": "Pacific Ocean",
+    "answer_inlang": "Pacific Ocean",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 4
+  },
+  {
+    "question": "What element has the atomic number 6?",
+    "context": "The element with atomic number 6 is carbon, which forms the basis for all known life on Earth.",
+    "answer": "Carbon",
+    "answer_inlang": "Carbon",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "What color is time?",
+    "context": "Time is a dimension used to sequence events. It does not have physical properties like color.",
+    "answer": "",
+    "answer_inlang": "",
+    "answerable": false,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "When did the American Civil War begin?",
+    "context": "The American Civil War was a conflict fought in the United States from 1861 to 1865 between the Union and Confederate states.",
+    "answer": "1861",
+    "answer_inlang": "1861",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 71
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "context": "Margaret Thatcher served as the Prime Minister of the United Kingdom from 1979 to 1990, becoming the first woman to hold the office.",
+    "answer": "Margaret Thatcher",
+    "answer_inlang": "Margaret Thatcher",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 0
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "context": "The Antarctic Desert is the largest desert on Earth, covering about 14 million square kilometers.",
+    "answer": "Antarctic Desert",
+    "answer_inlang": "Antarctic Desert",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 4
+  },
+  {
+    "question": "Who composed the symphony 'Ode to Joy'?",
+    "context": "Ludwig van Beethoven composed the Ninth Symphony, whose final movement is the 'Ode to Joy'.",
+    "answer": "Ludwig van Beethoven",
+    "answer_inlang": "Ludwig van Beethoven",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": 0
+  },
+  {
+    "question": "What organ pumps blood throughout the human body?",
+    "context": "The heart is a muscular organ responsible for pumping blood through the circulatory system via rhythmic contractions.",
+    "answer": "Heart",
+    "answer_inlang": "Heart",
+    "answerable": true,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "What is the speed limit of gravity?",
+    "context": "Gravity is a fundamental interaction that propagates at the speed of light in a vacuum, according to general relativity.",
+    "answer": "",
+    "answer_inlang": "",
+    "answerable": false,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "Who built the internet?",
+    "context": "The internet was not built by a single person; it evolved from research funded by the U.S. Department of Defense and the work of many engineers and scientists.",
+    "answer": "",
+    "answer_inlang": "",
+    "answerable": false,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "Where does the rainbow end?",
+    "context": "A rainbow is an optical phenomenon caused by light refraction, reflection, and dispersion in water droplets. It has no physical endpoint.",
+    "answer": "",
+    "answer_inlang": "",
+    "answerable": false,
+    "lang": "en",
+    "answer_start": -1
+  },
+  {
+    "question": "Ποιος έγραψε την Οδύσσεια;",
+    "context": "Η Οδύσσεια είναι ένα έπος που γράφτηκε στην αρχαία Ελλάδα από τον Όμηρο",
+    "lang": "el",
+    "answerable": true,
+    "answer_start": 68,
+    "answer": "Homer",
+    "answer_inlang": "Όμηρος"
+  },
+  {
+    "question": "Ποια είναι η πρωτεύουσα της Κίνας;",
+    "context": "Η Κίνα είναι χώρα στην Ανατολική Ασία. Η πρωτεύουσα της είναι το Πεκίνο.",
+    "lang": "el",
+    "answerable": true,
+    "answer_start": 91,
+    "answer": "Beijin",
+    "answer_inlang": "Πεκίνο"
+  },
+  {
+    "question": "Ποια χρονιά έπεσε το τοίχος του Βερολίνου",
+    "context": "Το 1989 έπεισε το τοίχος του Βερολίνου που χώριζε το ανατολικό κομμάτι της πόλης με το δυτικό.",
+    "lang": "el",
+    "answerable": true,
+    "answer_start": 4,
+    "answer": "1989",
+    "answer_inlang": "1989"
+  },
+  {
+    "question": "Ποια χώρα βρίσκεται στον Ποσειδώνα",
+    "context": "Ο Ποσειδώνας είναι ένας πλανήτης ο οποίος δεν διαθέτει πληθυσμό",
+    "lang": "el",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "answer_inlang": ""
+  },
+  {
+    "question": "Ποια είναι η μεγαλύτερη ήπειρος στον κόσμο;",
+    "context": "Η Ασία είναι η μεγαλύτερη ήπειρος του κόσμου τόσο σε έκταση όσο και σε πληθυσμό.",
+    "lang": "el",
+    "answerable": true,
+    "answer_start": 3,
+    "answer": "Asia",
+    "answer_inlang": "Ασία"
+  },
+  {
+    "question": "Πόσους δορυφόρους έχει ο Ήλιος;",
+    "context": "Ο Ήλιος είναι ένα άστρο στο κέντρο του Ηλιακού Συστήματος και δεν έχει δικούς του δορυφόρους.",
+    "lang": "el",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "answer_inlang": ""
+  }
+]
