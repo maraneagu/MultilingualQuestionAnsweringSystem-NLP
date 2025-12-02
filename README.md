@@ -9,7 +9,6 @@ The system works with the *TyDi QA*–derived multilingual dataset provided for 
 - **Token-level span extraction (sequence labeling)**
 - **Multilingual answer generation (open QA)**
 
-Our goal was to explore multilingual question answering across **Arabic (ar), Korean (ko), and Telugu (te)** questions paired with **English context documents**, following the week-by-week incremental assignment structure outlined in the course material.  
 ---
 
 ## Project Structure (Week-by-Week)
