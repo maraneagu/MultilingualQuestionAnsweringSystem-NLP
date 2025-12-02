@@ -10,8 +10,6 @@ The system works with the *TyDi QA*–derived multilingual dataset provided for 
 - **Multilingual answer generation (open QA)**
 
 Our goal was to explore multilingual question answering across **Arabic (ar), Korean (ko), and Telugu (te)** questions paired with **English context documents**, following the week-by-week incremental assignment structure outlined in the course material.  
-:contentReference[oaicite:1]{index=1}
-
 ---
 
 ## Project Structure (Week-by-Week)
@@ -20,9 +18,8 @@ Our goal was to explore multilingual question answering across **Arabic (ar), Ko
 - Explored the combined TyDi QA / XOR RC dataset  
 - Extracted dataset statistics for Arabic, Korean, and Telugu  
 - Identified the most frequent question words and analyzed linguistic patterns  
-- Built and evaluated a **rule-based answerability classifier** using question–context overlap + optional machine translation  
-:contentReference[oaicite:2]{index=2}
-
+- Built and evaluated a **rule-based answerability classifier** using question–context overlap + optional machine translation
+  
 ---
 
 ### **Week 37 — Language Modeling**
@@ -33,7 +30,6 @@ Our goal was to explore multilingual question answering across **Arabic (ar), Ko
   - Telugu questions  
   - English context documents  
 - Compared n-gram and neural approaches and analyzed cross-lingual performance  
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -44,7 +40,6 @@ Our goal was to explore multilingual question answering across **Arabic (ar), Ko
   - N-gram statistics  
   - Multilingual sentence embeddings (mBERT / DistilBERT)  
 - Evaluated models per language and analyzed cross-language differences  
-:contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -53,7 +48,6 @@ Our goal was to explore multilingual question answering across **Arabic (ar), Ko
 - Evaluated using sequence labeling metrics  
 - Compared multilingual vs. per-language training setups  
 - Handled character-to-token index alignment as required by the dataset  
-:contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -67,7 +61,6 @@ Focused on **Telugu → English context → Telugu answer** generation using enc
   - Generating Telugu or English answers  
 - Evaluated answer generation with text metrics  
 - Compared performance on answerable vs. unanswerable questions  
-:contentReference[oaicite:6]{index=6}
 
 ---
 
@@ -79,7 +72,6 @@ Focused on **Telugu → English context → Telugu answer** generation using enc
   - Best span extraction model  
   - Best answer generation model  
 - Discussed cross-model behavior and failure cases  
-:contentReference[oaicite:7]{index=7}
 
 ---
 
@@ -88,7 +80,6 @@ Focused on **Telugu → English context → Telugu answer** generation using enc
 - **mT5, mBERT, DistilBERT**, n-gram language models  
 - **HuggingFace Datasets** (TyDi QA / XOR RC)  
 - Google Colab GPU environment  
-:contentReference[oaicite:8]{index=8}
 
 ---
 
@@ -97,6 +88,5 @@ This project uses the DIKU-provided multilingual dataset based on:
 - **TyDi QA** (Clark et al., 2020)  
 - **XOR RC** (Asai et al., 2021)  
 - **XOR-AttriQA** (Muller et al., 2023)  
-:contentReference[oaicite:9]{index=9}
 
 Dataset link: https://huggingface.co/datasets/coastalcph/tydi_xor_rc
